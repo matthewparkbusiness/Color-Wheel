@@ -5,3 +5,8 @@ This game allows for a user to rotate a color wheel to collect converging dots a
 
 App Previews:
 
+![alt text](https://github.com/matthewparkbusiness/Color-Wheel/blob/master/preview1.png)
+![alt text](https://github.com/matthewparkbusiness/Color-Wheel/blob/master/preview2.png)
+![alt text](https://github.com/matthewparkbusiness/Color-Wheel/blob/master/preview3.png)
+![alt text](https://github.com/matthewparkbusiness/Color-Wheel/blob/master/preview4.png)
+![alt text](https://github.com/matthewparkbusiness/Color-Wheel/blob/master/preview5.png)
